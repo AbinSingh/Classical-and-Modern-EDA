@@ -28,3 +28,26 @@ https://www.analyticsvidhya.com/blog/2021/04/mastering-exploratory-data-analysis
 
 search in google like the below keywords:
 exploratory data analysis Analytics vidhya
+
+https://www.analyticsvidhya.com/blog/2021/06/eda-exploratory-data-analysis-with-python/
+
+Automating the EDA
+https://www.analyticsvidhya.com/blog/2021/04/top-python-libraries-to-automate-exploratory-data-analysis-in-2021/
+
+Rapid-Fire EDA process
+https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/
+
+
+https://www.geeksforgeeks.org/seaborn-distribution-plots/
+joinplot
+distplot
+pairplot
+rugplot
+
+https://mode.com/blog/violin-plot-examples/
+
+https://discuss.codecademy.com/t/why-are-there-two-symmetric-halves-of-a-violin-plot/361177
+
+https://www.geeksforgeeks.org/data-visualisation-in-python-using-matplotlib-and-seaborn/
+
+
